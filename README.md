@@ -1,6 +1,8 @@
-# TicTacToe Frontend
+# TicTacToe Backend
 
-This repository is the minimal frontend for a TicTacToe game, built with React and wired up to a Go WebAssembly backend.  
+Play here: https://marianogappa.github.io/tictactoe-frontend/
+
+This repository is the minimal backend for a TicTacToe game, written in Go and compiled to WebAssembly using TinyGo.  
 It’s intended as an **educational example**, not a production-ready project.
 
 📖 You can read the full blog post here:  
@@ -9,4 +11,4 @@ It’s intended as an **educational example**, not a production-ready project.
 ---
 
 ## Related Repositories
-- [TicTacToe Backend](https://github.com/marianogappa/tictactoe-backend)
+- [TicTacToe Frontend](https://github.com/marianogappa/tictactoe-frontend)
